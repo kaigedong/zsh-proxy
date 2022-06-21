@@ -12,7 +12,7 @@
 Firstly, clone this repository in `oh-my-zsh`'s plugins directory.
 
 ```bash
-git clone https://github.com/sukkaw/zsh-proxy.git ~/.oh-my-zsh/custom/plugins/zsh-proxy
+git clone https://github.com/kaigedong/zsh-proxy.git ~/.oh-my-zsh/custom/plugins/zsh-proxy
 ```
 
 Secondly, activate the plugin in `~/.zshrc`. Enable it by adding `zsh-proxy` to the [plugins array](https://github.com/robbyrussell/oh-my-zsh/blob/master/templates/zshrc.zsh-template#L66).
